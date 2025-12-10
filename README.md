@@ -11,51 +11,49 @@ This currated list of websites have been categorised into subject matter areas, 
 
   - A
   - B
+    - [Buy Me a Coffee](https://www.buymeacoffee.com) Another great platform to monetize your work.
   - C
-    - Creative
-      - [Dribble](https://dribbble.com)
-      - [IconScout](https://iconscout.com) Over 2.2 Million+ Design Assets.
-      - [Uplabs](https://www.uplabs.com) The #1 place for design files.
-      - [Freebies UI](https://freebiesui.com) Loads of free UI resources.
-      - [Scale](https://2.flexiple.com/scale/home) Royalty free Vector Illustrations for Commercial Use.
-      - [UI Store](https://www.uistore.design) Free Handpicked UI Kits for your real life projects.
   - D
-    - Development
-      - [Markdown Guide](https://www.markdownguide.org) A guide on how to create markdown for platforms that support the markup language, like Github.
-      - [Git Branching](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf) A guide on which of the various branching strategies are availble and which one is best suited for the respective development lifecycles or organisations.
-      - Flutter
+    - [Dribble](https://dribbble.com)
+  - E
+  - F
+    - [Freebies UI](https://freebiesui.com) Loads of free UI resources.
+    - Flutter
         - [App With Flutter](https://www.appwithflutter.com) General purpose site that offers a number of features releated to development using the Flutter language.
         - [Flutter Awesome](https://flutterawesome.com) Loads of Flutter resources.
         - [Its All Widgets](https://itsallwidgets.com) An open list of apps built with Flutter.
-      - [Superbase IO](https://supabase.io) The Open Source Firebase Alternative.
-  - E
-  - F
+    - Figma:
+        [Figma](https://www.figma.com/) The official Figma website.
+      - [Figma Freebies](https://www.figmafreebies.com/download/atro-mobile-ui-kit/) A list of Figma freebies.
   - G
-    - Github
+    - Git
       - [Github Badges](https://dev.to/envoy_/150-badges-for-github-pnk) - a list of 150 different badges that can be used in Github much like the ones you see at the end of the README.
+      - [Git Branching](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf) A guide on which of the various branching strategies are availble and which one is best suited for the respective development lifecycles or organisations.
   - H
   - I
+    - [IconScout](https://iconscout.com) Over 2.2 Million+ Design Assets.
   - J
   - K
   - L
     - Learning
       - [Morioh](https://morioh.com/) A social network for Programmers and Developers.
   - M
-    - Monetization
-      - [Patreon](https://www.patreon.com) A great platform for creatives to monetize and generate income from the work they do.
-      - [Buy Me a Coffee](https://www.buymeacoffee.com) Another great platform to monetize your work.
+    - [Markdown Guide](https://www.markdownguide.org) A guide on how to create markdown for platforms that support the markup language, like Github.
+    - [Medium](https://medium.com) - Medium is a site driven by content created by a vast community of people.
   - N
   - O
   - P
-    - Photos
-      - [Unsplash](https://unsplash.com) The internet’s source of freely-usable images.
+    - [Patreon](https://www.patreon.com) A great platform for creatives to monetize and generate income from the work they do.
   - Q
   - R
-    - Reading
-      - [Medium](https://medium.com) - Medium is a site driven by content created by a vast community of people.
   - S
+    - [Scale](https://2.flexiple.com/scale/home) Royalty free Vector Illustrations for Commercial Use.
+    - [Superbase IO](https://supabase.io) The Firebase Alternative.
   - T
   - U
+    - [Uplabs](https://www.uplabs.com) The #1 place for design files.
+    - [UI Store](https://www.uistore.design) Free Handpicked UI Kits for your real life projects.
+    - [Unsplash](https://unsplash.com) The internet’s source of freely-usable images.
   - V
     - Videos
       - [Coverr](https://coverr.co) Beautiful Free Stock Video Footage
